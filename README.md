@@ -1,4 +1,4 @@
- **Supplier Quality Analysis**
+# **Supplier Quality Analysis**
 
 **Project Overview**: 
 
@@ -24,4 +24,4 @@ This analysis achieved the following key outcomes:
 
 • Benchmarking Performance: Established benchmarks for vendor quality, enabling precise recommendations and driving measurable improvements.
 
-
+• Data-Driven Decisions: Delivered actionable insights to support strategic vendor management and quality control, enhancing efficiency and product quality.
